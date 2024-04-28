@@ -18,8 +18,8 @@ Additionally, I've employed various testing frameworks and methodologies to rigo
 ![image](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 
 ## Testing & Observability
+![image](https://github.com/ulysses-potiguara/ulysses-potiguara/blob/main/Neoload.png)
 ![image](https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=Selenium&logoColor=white)
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Logo_NeoLoad_Transparent.png/512px-Logo_NeoLoad_Transparent.png" width="80"/>
 ![image](https://img.shields.io/badge/Appium-EE376D.svg?style=for-the-badge&logo=Appium&logoColor=white)
 ![image](https://img.shields.io/badge/Playwright-2EAD33.svg?style=for-the-badge&logo=Playwright&logoColor=white)
 ![image](https://img.shields.io/badge/WebdriverIO-EA5906.svg?style=for-the-badge&logo=WebdriverIO&logoColor=white)
